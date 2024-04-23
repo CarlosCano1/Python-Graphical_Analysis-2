@@ -1,3 +1,3 @@
-# _Working Title_
+# _Heat Maps + Spatial Chart + Lollipop Chart_
 
-XYZ_123
+Python based coding for implimentations of various charts listed. 
